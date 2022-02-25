@@ -1,0 +1,273 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached before the King, on St. Stephen's-day by Sy. Patrick ...</title>
+            <author>Patrick, Simon, 1626-1707.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1676</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 38 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56694</idno>
+            <idno type="STC">Wing P839</idno>
+            <idno type="STC">ESTC R23416</idno>
+            <idno type="EEBO-CITATION">12762910</idno>
+            <idno type="OCLC">ocm 12762910</idno>
+            <idno type="VID">93530</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A56694)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 93530)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 727:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached before the King, on St. Stephen's-day by Sy. Patrick ...</title>
+                  <author>Patrick, Simon, 1626-1707.</author>
+               </titleStmt>
+               <extent>[2], 35 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by A. Maxwell for R. Royston ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1676.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Includes bibliographical references.</note>
+                  <note>Reproduction of original in Duke University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Acts VII, 59 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:93530:1"/>
+            <p>A SERMON Preached before the KING, ON S<hi rend="sup">t</hi> Stephen's-day.</p>
+            <p>By <hi>SY. PATRICK,</hi> D. D. Chaplain in Ordinary to His MAJESTY.</p>
+            <p>Printed By His Majeſties Special Command.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>A. Maxwell,</hi> for <hi>R. Royſton,</hi> Bookſeller to His Moſt Sacred Majeſty, at the <hi>Angel</hi> in <hi>Amen</hi>-corner, 1676.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:93530:2"/>
+            <pb n="1" facs="tcp:93530:2"/>
+            <head>A SERMON Preached before the KING, On St. <hi>Stephen</hi>'s day, 1675.</head>
+            <epigraph>
+               <q>
+                  <bibl>ACT. VII. 59.</bibl>
+                  <p>And they ſtoned Stephen, calling upon God, and ſaying, Lord Jeſus receive my Spirit.</p>
+               </q>
+            </epigraph>
+            <p>O How beautiful is a Succeſſion of Good things! (as St. <hi>Gre<g ref="char:EOLhyphen"/>gory Nyſſen</hi> cries out in a Ser<g ref="char:EOLhyphen"/>mon on this Feſtival.) How ſweet is it when one Pleaſure tranſmits us to another, and the end of the preſent is the beginning of a new Satisfaction! Behold here that which we all ſo much
+<pb n="2" facs="tcp:93530:3"/>deſire; <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, Feaſt after Feaſt, and Grace upon Grace. Yeſterday the Lord of all entertained us; to day we are in<g ref="char:EOLhyphen"/>vited by the noble Imitator of our Lord. The one feaſted us by <hi>putting on</hi> the Man for <hi>us;</hi> the other by <hi>putting off</hi> the Man for <hi>him:</hi> the one by coming down into the Dungeon of this Life (as he calls it) for our ſake; the other by going out of it for his. O happy life of Chriſtians! whom their Lord would have to <hi>rejoyce alway;</hi> and <hi>in every thing to give thanks;</hi> firſt for him, and then for thoſe Worthies that followed him.</p>
+            <p>For next to the moſt Bleſſed Redeemer of Mankind, the great Captain of our Salvation, thoſe bleſſed Saints, who were the great Champions of his holy Truth, challenge our ſolemn and devout Comme<g ref="char:EOLhyphen"/>moration. The Chriſtian Religion, which comforts us with ſuch a bleſſed Hope, was propagated by their means, eſpecially by their Sufferings;<note place="margin">Col. 1.24.</note> which <hi>filled up</hi> (as St. <hi>Paul</hi> ſpeaks) <hi>that which was behind,</hi> or wanting, <hi>of the afflictions of Chriſt in
+<pb n="3" facs="tcp:93530:3"/>their fleſh.</hi> There were no Sufferings wanting indeed to complete Chriſt's Satis<g ref="char:EOLhyphen"/>faction; but there did ſome remain to complete the Teſtimony, which he had begun to give by Blood to the Truth of God. Theſe the Apoſtles and other Great perſons filled up and finiſhed, in thoſe parts of the World where he had not himſelf in Perſon appeared. There they publiſhed the ſame Truth for which he died, and teſtified and confirmed it in the ſame manner that he had done, by laying down their Life for it: ſo that in them he ſtill lived, and preached, and wrought wonders, and was perſecuted, and deſpiſed Death, and ſubdued the Nations under his feet. <hi>He that overcame death once for us</hi> (ſays one of theſe Mar<g ref="char:EOLhyphen"/>tyrs) <hi>overcomes it always in us. In us he fights, and in us he conquers. In theſe combats which we conſtantly endure,</hi> &amp; coronat pari<g ref="char:EOLhyphen"/>ter &amp; coronatur, <hi>he both crowns, and is likewiſe crowned.</hi> They are the words of S. <hi>Cyprian.</hi>
+               <note place="margin">Epiſt. VIII.</note>
+            </p>
+            <p>Now among all thoſe Triumphant
+<pb n="4" facs="tcp:93530:4"/>Souls, who ſo honourably witneſſed to our Saviour, the moſt Eminent was this Glorious Martyr S. <hi>Stephen,</hi> whoſe Me<g ref="char:EOLhyphen"/>mory is this day celebrated; becauſe he was the firſt who ſubſcribed the Chriſtian Doctrine, and ſealed it with his Blood; becoming thereby <hi>Primicerius Martyrum,</hi> (as S. <hi>Aug.</hi> calls him) the Chief, the Prince and Captain of the Martyrs, as Chriſt is the Prince and Captain of their and our Salvation. Before he had ſeen any mere Man leading him the way, when there were no footſteps but thoſe of our Saviours, wherein to tread; he led the way himſelf in a Bloody path, and ar<g ref="char:EOLhyphen"/>rived to the Honour of being the <hi>Firſt<g ref="char:EOLhyphen"/>born</hi> of all thoſe whoſe <hi>Nativities,</hi> that is, Martyrdoms, the Church commemorates with her Praiſes and Thankſgivings. And this he did in the very firſt year (as it is moſt probable) after our Lord's Aſcenſion to the Throne of his Glory; and when he had but newly received Impoſition of Hands:<note place="margin">Lib. <hi>11.</hi> Hiſt. Eccleſ. c. <hi>1.</hi>
+               </note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, (as <hi>Euſebius</hi> ſpeaks) as if he had been Ordained only for this Miniſtry, to ſacrifice his Life for the Teſtimony of <hi>Jeſus.</hi>
+            </p>
+            <p>
+               <pb n="5" facs="tcp:93530:4"/>
+It is an eaſie thing, as S. <hi>Gregory Nazi<g ref="char:EOLhyphen"/>anzen</hi> ſpeaks, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, to be a Chriſtian when there is no danger; and when there is, all ſufferings are the eaſi<g ref="char:EOLhyphen"/>er, when we have many Companions, or glorious Examples to encourage us. But it is the ſingular priviledg, and peculiar glory of this Saint, that <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, &amp;c. <hi>He was the firſt that opened the paſſage to the quire of Martyrs;</hi>
+               <note place="margin">Greg. Nyſſ. &amp; Euſebius.</note> 
+               <hi>the firſt that reſiſted unto blood, ſtriving againſt ſin; the firſt that was adorned (agreeable to his Name) with the crown and diadem of confeſſion.</hi>
+            </p>
+            <p>It is not my intention, nor will the time permit me to relate the whole ſtory of this great mans ſufferings, together with the occaſion of them; how he over<g ref="char:EOLhyphen"/>powered his Adverſaries with the Wiſ<g ref="char:EOLhyphen"/>dom and Spirit wherewith he proved Je<g ref="char:EOLhyphen"/>ſus to be the Son of God; how he aſto<g ref="char:EOLhyphen"/>niſhed them with the Wonders and Mira<g ref="char:EOLhyphen"/>cles he did among the people; how he ſtopt the mouths of thoſe that diſputed with him; and how Falſe Witneſſes were thereupon ſuborned to bring in an Accu<g ref="char:EOLhyphen"/>ſation
+<pb n="6" facs="tcp:93530:5"/>againſt him: but ſhall only note the Invincible Reſolution, and the Pious Patience of this Bleſſed Martyr, under all that he endured:
+<q>For they ſtoned Stephen, calling upon God, and ſaying, Lord Jeſus receive my ſpirit.</q>
+            </p>
+            <p>
+               <hi>Stoning</hi> was the heavieſt Puniſhment that the Law of <hi>Moſes</hi> enacted againſt the moſt grievous Crimes. If a man had blaſphemed God, or made his Children paſs through the fire to <hi>Moloch,</hi> or com<g ref="char:EOLhyphen"/>mitted villany with a Beaſt, or curſed his Parents (to name none of the reſt of thoſe XVIII ſorts of ſinners who were to be thus uſed), they could do no more, to ſhew their deteſtation of his wickedneſs, than to daſh him againſt the ſtones; and if that did not diſpatch him, to throw ſtones at him till he died. Now when a whole ſhowre of theſe came pouring down on this Good-mans head, when the blind Multitude ran upon him with ſuch a rage, as if he had been the
+<pb n="7" facs="tcp:93530:5"/>vileſt creature on Gods earth, it did not move his ſpirit in the leaſt to any un<g ref="char:EOLhyphen"/>chriſtian paſſion, nor extort from him one angry, one revengeful, one unſeemly word. He only commended himſelf to God, and prayed for his Perſecutors, and expreſſed his hope in Jeſus, that when they had beaten his Soul out of his Body, he would receive it unto himſelf.</p>
+            <p>And great reaſon he had for ſuch Hope, being already advanced by the Faith of Chriſt to ſuch an Heavenly and God-like nature, as to expreſs the greateſt love to thoſe who hated him ſo bitterly; and to expoſe himſelf to the greateſt danger for the ſake of Chriſtian Piety, which he deſired by theſe means to propagate even among its moſt deadly enemies. And if we rightly conſider it, we ſhall not eaſily find any thing that ſo much declares the Greatneſs, the Excellency (and as I may call it, the Divineneſs) of any mans ſpirit, or tends ſo effectually to promote the Chriſtian Faith, as truly pi<g ref="char:EOLhyphen"/>ous Patience under the greateſt Sufferings upon its account.</p>
+            <p>
+               <pb n="8" facs="tcp:93530:6"/>
+               <label>I.</label>
+Firſt, I ſay it is an argument of a great and noble Spirit; it declares more than any thing elſe, the force and vertue of any mans mind. As Complaints, conti<g ref="char:EOLhyphen"/>nual Repinings, and violent Commotions, argue weakneſs and infirmity: ſo ſilent Meekneſs, chearful Submiſſion, and qui<g ref="char:EOLhyphen"/>et compoſed Patience when we ſuffer wrongfully, ſpeak an Heart indued with ſtrength and fortitude. The World in<g ref="char:EOLhyphen"/>deed thinks thoſe moſt powerful, who can do wrong and not be puniſhed for it; they that can irreſiſtably overpower and oppreſs others, have gained the Titles of Mighty, Illuſtrious, and Magnani<g ref="char:EOLhyphen"/>mous: but in a right eſtimation of things, theſe Titles belong to ſuch Souls as can ſuffer all the evil that thoſe men do, with an humble conſtancy, and meek re<g ref="char:EOLhyphen"/>ſignation of themſelves to the Will of God. Theſe are the truly Great and Unconquerable Spirits; theſe ought moſt to be admired and renowned, for they remain Victorious even over their inſult<g ref="char:EOLhyphen"/>ing
+<pb n="9" facs="tcp:93530:6"/>Enemies: they triumph over thoſe that lead them captive: Who find a ſtop put to the courſe of their Con<g ref="char:EOLhyphen"/>queſts, when they meet with ſuch Spi<g ref="char:EOLhyphen"/>rits as cannot be ſubdued; nay, are in pain, and inwardly grieved, to ſee men ſuffer chearfully, more than they can lay upon them. <hi>Jacuit inter poenas, poenis ſuis fortior,</hi>
+               <note place="margin">Epiſt. XXXIV.</note> &amp;c. ſays S. <hi>Cyprian</hi> of <hi>Celeri<g ref="char:EOLhyphen"/>nus.</hi> 
+               <q>He lay tormented, ſtronger than the torments he indured; freer in pri<g ref="char:EOLhyphen"/>ſon than they that ſhut him in; high<g ref="char:EOLhyphen"/>er, when flat upon the ground, than they that trampled on him; more at li<g ref="char:EOLhyphen"/>berty in chains, than they that bound him; ſublimer by far when condemn<g ref="char:EOLhyphen"/>ed, than they that ſate on the Bench and judged him.</q>
+            </p>
+            <p>It was a ſublime Spirit indeed that poſ<g ref="char:EOLhyphen"/>ſſed theſe mens Breaſts: for it raiſed them by theſe means not only above the common rank of mankind, and above all thoſe who had aſtoniſhed the World with their Greatneſs and Power; but far above thoſe gods whom the Nations wor<g ref="char:EOLhyphen"/>ſhipped.
+<pb n="10" facs="tcp:93530:7"/>Moſt of which had left no Re<g ref="char:EOLhyphen"/>cords but of their Amours, their Plea<g ref="char:EOLhyphen"/>ſures and Volupteous Enjoyments; and none of which had made themſelves remarkable for patient Innocence, and pious Paſſing by injuries, without any thought or deſire of revenge. This was a thing proper to the Chriſtian Hero's, as the Martyrs and Confeſſors may be juſtly called, who became hereby more than Men; and, as ſome of the Ancients ven<g ref="char:EOLhyphen"/>tured to ſay, more than Angels: <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, by the Agonies and Conflicts they endured in their bodies, excelling thoſe Natures which have no bodies, and conſequently no ſuch pains and miſeries to contend withal, as thoſe Souls (incumbred with Fleſh) overcame. Which proclaimed ſo loudly the Power of the Ineffable Father in them (as <hi>Juſtin</hi> one of theſe Martyrs ſpeaks), that they won the hearts of ſober Pagans to the Service of that God, who inſpired his worſhippers with ſuch meek and humble, but reſolved and undaunted Spirits. Which is the ſecond thing:</p>
+            <p>
+               <pb n="11" facs="tcp:93530:7"/>
+               <label>II.</label>
+That Chriſtianity was hereby marvel<g ref="char:EOLhyphen"/>louſly promoted, and made a great pro<g ref="char:EOLhyphen"/>greſs in the World, though this ſeemed to be the ready way to extinguiſh it. <hi>Celſus</hi> himſelf, as great an enemy as he was to Chriſtianity, was put to his ſhifts, and forced to quit his former Principles, when he came to conſider the ſufferings of the Martyrs. Though he was an <hi>Epicuraean</hi> in his other Writings,<note place="margin">Lib. <hi>1.</hi> contra Celſ.</note> as <hi>Origen</hi> tells us; yet when he ſet himſelf to diſpute againſt Chriſtian Religion, he could not but con<g ref="char:EOLhyphen"/>feſs that it was a Generous and Worthy thing, to lay down their Lives in the De<g ref="char:EOLhyphen"/>fence of it; and, that nothing was more baſe, than for a Man to flinch from a true Opinion for fear of danger. For he goes on to acknowledg, when he was in this good mood, <q>that there is in Man <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, ſomething better than his ear<g ref="char:EOLhyphen"/>thy part; which is, ſays he, of kin to God. And therefore all well-bred Souls deſire to be near to their Origi<g ref="char:EOLhyphen"/>nal, and would willingly know more
+<pb n="12" facs="tcp:93530:8"/> of him.</q> A worthy Confeſſion, which the power of Truth ſometimes extorts from its greateſt Enemies. And it was eminently verified in this holy Martyr, of whom we may ſpeak truly in his words, that being well bred (in the School of Chriſt) <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, he deſired by all means to be with his Heavenly Kin<g ref="char:EOLhyphen"/>dred. Which he knew would not leſ<g ref="char:EOLhyphen"/>ſen the Family of Chriſt here on earth, but rather increaſe it, and make it more numerous. <q>For as skilful Wreſtlers, ſays S. <hi>Greg. Nyſſ.</hi> by yielding a little, and bowing their bodies under thoſe that contend with them, more eaſily over<g ref="char:EOLhyphen"/>throw them, and lay them flat on the ground: So did this grrat <hi>Stephen</hi> bruiſe the mighty Adverſary the Devil, by falling to the earth himſelf.</q> Then it was that the Apoſtles were driven away from <hi>Jeruſalem,</hi> and began to run through<g ref="char:EOLhyphen"/>out the World. This was the occaſion of the Publiſhing of the Word every where, to the ruine of the Devil's King<g ref="char:EOLhyphen"/>dom. And beſides this, his wonderful Piety, and compaſſionate Kindneſs even
+<pb n="13" facs="tcp:93530:8"/>to his Perſecutors, we may rationally think touch'd ſome of their Hearts, and made them relent and turn to God. For at that very time when they were murdering him, he like a Spiritual Prieſt (as the fore-named Father ſpeaks) whoſe blood was ſprinkled againſt their will before God, interceded with great charity for them, <hi>ſaying, Lord, lay not this ſin to their charge.</hi>
+            </p>
+            <p>When their brutiſh fury was a little over, and they reflected on what had paſſed with ſome coolneſs, they could not ſure but (ſome of them) be melted with ſuch ardent love, as well as aſtoniſhed at ſuch rare courage. For in ſucceeding times, it is certain, Chriſtian Patience had ſuch effect upon many hearts, that it gave a great ſtroke to their converſion unto Chriſt. <hi>Juſtin,</hi> whom I mentioned be<g ref="char:EOLhyphen"/>fore, profeſſes, That the firſt thing that inclined him to the faith of Chriſt, was the devout conſtancy which he beheld in thoſe, who ſuffered for it. And <hi>Tertullian</hi> avows in his Apology to all the Pagan
+<pb n="14" facs="tcp:93530:9"/>world, that <hi>Cicero, Seneca, Pyrrho, Callinicus,</hi> with all the reſt of their great Writers, who had exhorted men to indure pain and death, could never make ſo many Diſci<g ref="char:EOLhyphen"/>ples by their Eloquent words, as ſimple Chriſtians had done by their deeds. <hi>Illa ipſa obſtinatio quam ex probatis, Magiſtra eſt.</hi> 
+               <q>That very obſtinate Reſolution, which you upbraid us withal, is a Mi<g ref="char:EOLhyphen"/>ſtreſs that inſtructs the world. Who is there that beholds it, and is not moved to enquire into the cauſe? And who is there that takes the pains to enquire into the cauſe, and doth not become a Proſe<g ref="char:EOLhyphen"/>lyte to this Religion? and who is there that becomes a Proſelyte to it, and is not ready alſo to loſe his life for it, that he may obtain the favour of God with the expence of his blood?</q>
+            </p>
+            <p>And indeed it may be queſtioned whe<g ref="char:EOLhyphen"/>ther the Apoſtles and their followers, did more amaze the world by the wonder of their Miracles, or by their ſtupendious patience under the moſt cruel Torments. This, I think, is certain, That the Divine
+<pb n="15" facs="tcp:93530:9"/>manner of their ſuffering, was a thing leſs controverted, than their prodigious aſtoniſhing works. They, I mean, who diſputed the laſt, could not but admire and commend the firſt. They aſcribed their Miracles ſometime to the power of evil ſpirits: But their meek and Lamb<g ref="char:EOLhyphen"/>like Patience, their tender-hearted Chari<g ref="char:EOLhyphen"/>ty to thoſe that hated them, their forgiving their Enemies, their praying for their Per<g ref="char:EOLhyphen"/>ſecutors, their bleſſing thoſe that curſed them, and obliging thoſe that reviled and abuſed them; theſe things the Devil himſelf knew not how to calumniate, no more than he knew how to counterfeit.</p>
+            <p>His Agents and Factors had not the heart to ſuffer any thing, but loved their eaſe and their pleaſure; though they appeared with a very ſtrange power of marvels, and ſigns, and lying wonders. <hi>As Jannes and Jambres,</hi>
+               <note place="margin">2 Tim. 3.8</note> ſays St. <hi>Paul, withſtood Moſes, ſo did theſe alſo reſiſt the Truth,</hi> which was preached by the Apo<g ref="char:EOLhyphen"/>ſtles. That is, as thoſe Egyptian Magi<g ref="char:EOLhyphen"/>cians vied a while with <hi>Moſes</hi> in ſtrange
+<pb n="16" facs="tcp:93530:10"/>works, and aſtoniſhing operations, where<g ref="char:EOLhyphen"/>by they ſought to impair his credit with the people: So did theſe new Juglers con<g ref="char:EOLhyphen"/>tend for ſome time with the Apoſtles, and hoped to gain as great admiration, by imi<g ref="char:EOLhyphen"/>tating their Miracles. But they were not more deſirous all this time to ſhew them<g ref="char:EOLhyphen"/>ſelves in mighty works, than they were craftily careful to ſhun all pain and trou<g ref="char:EOLhyphen"/>ble for their cauſe. For it is expreſly noted as a part of their Character by the ſame St. <hi>Paul, Philip. III.</hi> 18. that they were <hi>Enemies to the Croſs of Chriſt,</hi> in which the Apoſtles gloried and rejoyced, II <hi>Cor.</hi> XII. 9, 10.</p>
+            <p>And here it will not be unfit to note theſe two things:</p>
+            <p n="1">I. Firſt, That what glory ſoever there was in Miracles (as they did at laſt ſo outſhine all Impoſters, that they quite eclipſed them, no leſs than <hi>Moſes</hi> did the Magicians), it never appeared more illu<g ref="char:EOLhyphen"/>ſtrious, than when the Apoſtles exerciſed perfect patience under the ſoreſt diſtreſſes.
+<pb n="17" facs="tcp:93530:10"/>Then the Divine vertue in them broke out, and ſhone moſt brightly. <hi>When they were weak, then were they ſtrong,</hi> as St. <hi>Paul</hi> ſpeaks in the place forenamed. When they were cruſhed by the power of their Enemies, then they moſt ama<g ref="char:EOLhyphen"/>zed them, by diſcovering this mighty power of Chriſt in ſuch weak and earthen Veſſels. What could be more aſtoniſh<g ref="char:EOLhyphen"/>ing, than to ſee thoſe who were faſt manacled and fettered, unlooſe their own and others bands, ſhake the foundations of Priſons, open without any Key, or other Inſtrument, the Dores which were ſtrongly lock'd and barr'd upon them: Nay, unchain not only faſt-bound bodies, but alſo miſerably inthralled Souls? Was it not a great wonder to ſee Jaylors come and crouch to thoſe whom they had new<g ref="char:EOLhyphen"/>ly ſcourged; deſiring to be unbound and abſolved by their chained Captives, and yeilding themſelves voluntary Priſoners to thoſe, whom they had violently kept in durance? Yet this we read in the Story of the bleſſed St. <hi>Paul,</hi> Act. <hi>XVI,</hi> who then triumphed when he ſate in the
+<pb n="18" facs="tcp:93530:11"/>Stocks; then appeared illuſtrious, when he was thruſt into a Dungeon (for that's the meaning of the <hi>inner Priſon</hi> there mentioned); then was highly honoured, inſomuch that they were ready to kiſs his Stripes, when he was treated as a man of no account.</p>
+            <p>Here the Apoſtles and their Succeſſors left all their oppoſers far behind them, who fled from dangers, and timerouſly avoided all pain and trouble, or endured them with a baſe and abject Spirit, which ſunk when it wanted the peoples breath to blow it up. They were far from <hi>ta<g ref="char:EOLhyphen"/>king pleaſure in infirmities, in reproaches, in neceſſities, in perſecutions, in diſtreſſes;</hi> having no hopes to win any glory by this means, as St. <hi>Paul</hi> did: who demonſtrated his Apoſtleſhip <hi>in all patience,</hi> as well as <hi>in ſigns,</hi> and <hi>wonders, and mighty deeds,</hi> II <hi>Cor.</hi> XII. 10.12.</p>
+            <p>But true Patience is ſuch an admi<g ref="char:EOLhyphen"/>rable property, that the Devil hath
+<pb n="19" facs="tcp:93530:11"/>not the power to attain ſo much as a ſhadow of it. It is too beautiful for his deformed nature, and crooked diſ<g ref="char:EOLhyphen"/>poſition: being a compoſition of all thoſe lovely virtues and graces of the Holy Spirit, to which he is a perfect ſtranger. He can ſometime transform himſelf into an Angel of Light; but when do we find him in the form of a truly reſigned and contented ſufferer? This is the unalienable Prerogative of Chriſt; and the great Champions of his Faith, who with ſuch a Charity as St. <hi>Paul</hi> deſcribes, I <hi>Cor.</hi> XIII. 4, 5, 6, 7. (every property of which is the Character of Patience, as <hi>Tertullian</hi> hath truly obſerved) endured all the contempt, hatred and cruelty of the world; ac<g ref="char:EOLhyphen"/>counting it a great honour and gain (no diſparagement or damage at all) to be vile, and to loſe all they had, for the ſake of their Dear Lord and Maſter Chriſt Jeſus.</p>
+            <p>There did, it is true, ariſe in after Ages ſuch ſturdy Spirits (for inſtance
+<pb n="20" facs="tcp:93530:12"/>the <hi>Circumcellions,</hi> a part of the <hi>Dona<g ref="char:EOLhyphen"/>tiſts</hi> Faction) as would endure any thing with a barbarous reſolution, for the cre<g ref="char:EOLhyphen"/>dit of thoſe Dotages wherewith they troubled the world: But they were wholly void of that ancient Spirit, which had ever been in Chriſtian ſufferers. They had nothing of that <hi>Modeſtiſſima Patientia</hi> (as the Author of the Book <hi>de Duplici Martyrio</hi> ſpeaks) that moſt Modeſt Patience wherewith Chriſtian Religion inſpired its fol<g ref="char:EOLhyphen"/>lowers. <hi>Illud placidum, illud manſue<g ref="char:EOLhyphen"/>tum,</hi> &amp;c. That ſweet, that ſoft, that gentle and tender, that humbly ſublime (as his Phraſe is) and ſublimely hum<g ref="char:EOLhyphen"/>ble Spirit, was no where to be found but among the Martyrs; who never ſpake a worſe word, when they were condemned, than <hi>Deo gratias,</hi> thanks be to God, which was the common form wherein they received their Sentence from the mouth of their Judges:<lb/>
+That's the <hi>ſecond</hi> thing I have to add,</p>
+            <p n="2">
+               <pb n="21" facs="tcp:93530:12"/>
+II. That when ſome Impoſtors en<g ref="char:EOLhyphen"/>deavoured to imitate the reſolution of the Apoſtles and Martyrs, in expoſing even their lives for the ſake of their vain imaginations, they were not able to imitate them at all in the Divine manner of their ſufferings. It is ex<g ref="char:EOLhyphen"/>cellently ſaid by St. <hi>Gregory Nazianzen,</hi> in his Funeral Oration for his Father,<note place="margin">Orat. XIX.</note> That this bleſſed Martyr St. <hi>Stephen</hi> offered to God a greater thing than Death, <hi>viz.</hi> Long-ſuffering, meekneſs, and forgiving of his Enemies. He oppoſed, as the other <hi>Gregory</hi> ſpeaks, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, &amp;c. to their anger a patient ſpirit, to their threats ſilence, to their hatred ardent love, to their malignity good will, to their falſe accuſations preaching of the Truth. If the falſe Apoſtles and other pretenders, could have appeared in this handſom dreſs, their deluſion had been very dangerous: But here they halted, and knew not how to fol<g ref="char:EOLhyphen"/>low the genuine Diſciples of Chriſt Jeſus.</p>
+            <p>
+               <pb n="22" facs="tcp:93530:13"/>
+Their hardineſs, as St. <hi>Auſtin</hi> ſpeaks of the ſurly Sect before-mentioned (many of which would kill themſelves, and force others to kill them), was to be admired, for it was very great: but their patience was not to be ad<g ref="char:EOLhyphen"/>mired, for it was none at all. They ſuffered much evil, that they might do the more. They cared not what others did to them; but withal, they cared not what they did to o<g ref="char:EOLhyphen"/>thers.</p>
+            <p>This was a remarkable difference, which is all the time will give me leave to mention, between the Chri<g ref="char:EOLhyphen"/>ſtian Martyrs and their Counterfeits: The one were meek, the other angry and furious. The one humble, the other haughty. The one ready to do good to thoſe by whom they ſuffer'd, the other deſirous of revenge. The one loved their Enemies, the other only contemn'd them. The one were forward to excuſe their folly, the other to aggravate and upbraid them with it.
+<pb n="23" facs="tcp:93530:13"/>The one ſmiled upon their perſecu<g ref="char:EOLhyphen"/>tors and bleſſed them, the other look'd as if they would pour out Anathema's, and excommunicate them from all their charitable thoughts. Nothing was more peaceable and quiet than the one, while the other were tumultuous and violent. The Martyrs were ſubmiſſive and eaſily govern'd, but the other were boiſterous and violent. It was proper to the former to appear with a modeſt chearfulneſs, and a humble confidence; but the other ſeemed to be ſurly ra<g ref="char:EOLhyphen"/>ther than well ſatisfied; bold, rather than well aſſured.</p>
+            <p>And therefore no wonder that theſe Holy Souls ſo mightily prevailed over all the powers of darkneſs, in what ſhape ſoever they appeared; and that they <hi>overcame,</hi> as St. <hi>John</hi> writes, <hi>the Dragon, that old Serpent the Devil, by the blood of the Lamb, and the word of their teſtimony, not loving their lives unto the death.</hi> And no wonder alſo, they had ſuch a lively hope in God,
+<pb n="24" facs="tcp:93530:14"/>and could look up ſo ſtedfaſtly to Jeſus, as this bleſſed Martyr did, ex<g ref="char:EOLhyphen"/>pecting that he would receive their Spirits, with the kindeſt affection unto himſelf: For they had attained to the Baptiſm wherewith he the King of glory was Baptized: A Baptiſm (as St. <hi>Cyprian</hi> calls Martyrdom) <hi>In gratia majus,</hi>
+               <note place="margin">De Exhort. Martyrii.</note> 
+               <hi>in poteſtate ſublimius,</hi> &amp;c. <hi>In grace greater, in power more ſublime, in honour more precious. A Baptiſm in which the Angels baptize, in which God and his Chriſt rejoyce. A baptiſm after which no man ſins; which con<g ref="char:EOLhyphen"/>ſummates the encreaſe of our faith; and parting us from the world, ſtraight-way unites us to God. In the baptiſm of wa<g ref="char:EOLhyphen"/>ter is received remiſſion of ſins; but in this of blood, the Crown of Virtues.</hi>
+            </p>
+            <p>And a very noble Crown ſure it was, that ſuch faithful followers might hope to receive from the hands of ſo gra<g ref="char:EOLhyphen"/>cious a Maſter. For being ſo much ad<g ref="char:EOLhyphen"/>vanced above the world while they were in it, and having done him ſuch emi<g ref="char:EOLhyphen"/>nent
+<pb n="25" facs="tcp:93530:14"/>Service; they could not doubt of his favour in lifting them up to live with himſelf in exceeding great bliſs, when his Enemies would not permit them to live here any longer. If there were any thrones higher than other, in thoſe heavenly places, where St. <hi>Stephen</hi> ſaw our Saviour, they might very well ex<g ref="char:EOLhyphen"/>pect to be promoted to them; to reign with him there in endleſs glory, and to be honoured here on earth with perpe<g ref="char:EOLhyphen"/>tual praiſes.</p>
+            <p>
+               <label>I.</label>
+For from all this you cannot but ſee how ſit and juſt it is, that we ſhould make moſt ſolemn commemorations of thoſe, to whom the Chriſtian world ſtands ſo deeply obliged: and that the Church ſhould give a kind of firſt-fruits of them unto this glorious Martyr,<note place="margin">Orat. XXII.</note> whom St. <hi>Gregory Naz.</hi> calls <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>the firſt fruits of thoſe who ſuffered after Chriſt.</hi> This the ancient Chriſtians did with ſo great affection, that their Enemies calumni<g ref="char:EOLhyphen"/>ated
+<pb n="26" facs="tcp:93530:15"/>it, and ſaid: they worſhipped them. No, ſays St. <hi>Cyril</hi> in his VI Book againſt <hi>Julian</hi> (where he juſti<g ref="char:EOLhyphen"/>fies this practice excellently; and there<g ref="char:EOLhyphen"/>fore give me leave to contract a long diſ<g ref="char:EOLhyphen"/>courſe he hath about it), <q>There is no <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Man-worſhip</hi> among Chri<g ref="char:EOLhyphen"/>ſtians. For we have not made a God of a Man, nor adore one that is not by nature God, when we worſhip Chriſt himſelf. But acknowledging that man, who appeared to be the Word of God, by whom all things were made, we go to him as God; for ſo he is. As for the Martyrs, we neither call them Gods, nor give them any Divine Worſhip: Yet we cannot but honour them; or rather we crown them <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, with the higheſt honours: As thoſe who have generouſly contended for the truth, and reſolutely preſerved the purity of our Faith, and propounded themſelves as certain Images of that ſo much admired fortitude and gallan<g ref="char:EOLhyphen"/>try to all the world. There can be
+<pb n="27" facs="tcp:93530:15"/>no abſurdity in it; but rather it is neceſſary, that they who excelled in ſuch famous deeds, ſhould be crowned with endleſs honour. Did not com<g ref="char:EOLhyphen"/>mon reaſon teach the ancient <hi>Greeks</hi> as much? For thoſe that hazarded their lives at <hi>Marathon</hi> for the ſafety of their Country, and thoſe that ſtoutly oppoſed the Army of <hi>Xerxes</hi> in after<g ref="char:EOLhyphen"/>times, the <hi>Athenians</hi> were wont, meeting together every year at their Graves, to crown with their Enco<g ref="char:EOLhyphen"/>miums and high commendations, as men that dyed a glorious death. And your <hi>Plato</hi> ſays, That they who live excellently and dye bravely, ſhould be honoured as more than men, and their Tombs become venerable. It is no wonder then that we account the Holy Martyrs worthy <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> of all reſpect and reverence, and that we ho<g ref="char:EOLhyphen"/>nour their very Monuments; making a perpetual never-fading commemora<g ref="char:EOLhyphen"/>tion of them, ſerve in ſtead of a ſmall recompence of ſuch illuſtrious vertue.</q> Thus He.</p>
+            <p>
+               <pb n="28" facs="tcp:93530:16"/>
+And it is very well known how, in thoſe days, their names were ſolemnly rehearſed in the Publick Liturgies of the Church. Which cuſtom, though it be not ſtill continued, yet their me<g ref="char:EOLhyphen"/>mory is ever precious; we honour them with due praiſe; we make mention of their noble deeds with hearty thankſ<g ref="char:EOLhyphen"/>givings to God for them: <hi>Laudamus, glorificamus, admiramur,</hi> &amp;c. (to ſpeak in the words of St. <hi>Auſtin,</hi> or whoever he was that wrote the Book <hi>de excidio urbis), we praiſe, we glorifie, we ad<g ref="char:EOLhyphen"/>mire the holy Martyrs; we celebrate their days with a pious ſolemnity; we vene<g ref="char:EOLhyphen"/>rate their worth, and as far as we can we imitate them, and endeavour to do as they did.</hi> For by their zealous labours and ſufferings, Infidels were converted, lapſed Chriſtians recovered, the doubt<g ref="char:EOLhyphen"/>ful confirmed, the luke-warm inflamed, the fervour of the pious doubled; and all Poſterity excited both to adore the power of the Divine Grace in them, and alſo to hope in God for the like Grace, to help in time of need.
+<pb n="29" facs="tcp:93530:16"/>Thoſe are the two reaſons St. <hi>Baſil</hi> gives why thoſe that loved the Martyrs were ſo unwearied in their commemoration of them,<note place="margin">In XL. Mar<g ref="char:EOLhyphen"/>tyres.</note> Becauſe <hi>the honour which is given to our pious fellow-ſervants, is a demonſtration of our affection to our common Maſter: And he that entertains brave men with due reſpect, will not fail to imitate them on the like oc<g ref="char:EOLhyphen"/>caſion.</hi>
+            </p>
+            <p>
+               <label>II.</label>
+And that I muſt needs ſay, is the greateſt honour we can do them, to propound them always to our ſelves as our patterns, and to follow them in their conſtant love to God, to Religion, and to all Mankind, whatſoever we ſuffer for it. True Chriſtian Piety and Ver<g ref="char:EOLhyphen"/>tue, if we will allow the Martyrs to have had any judgment, is the moſt va<g ref="char:EOLhyphen"/>luable thing in the whole world; for they preferred it before their lives. And therefore all Infidelity is a direct reproach to thoſe bleſſed Souls; repreſenting them as a company of raſh Zealots, that threw
+<pb n="30" facs="tcp:93530:17"/>away their lives for a fancy: And all vice and wickedneſs is a conſtant mani<g ref="char:EOLhyphen"/>feſt ſcorn and contempt of their Sanctity, as the fooliſh ſtrictneſs of thoſe who underſtood not their liberty. If we will honour them, we muſt heartily believe and obey that Goſpel which they preached and aſſerted with their blood. We muſt endeavour, as one under the name of St. <hi>Cyprian</hi> ſpeaks, <hi>
+                  <g ref="char:V">Ʋ</g>t tota etiam vita Martyrium, hoc eſt teſtimonium Deo reddat;</hi> that our whole life may be a Martyrdom; that is, a teſtimony unto God. Let it teſtifie that we own him, that we remember him, that we fear and reverence him, and that we love him, and eſteem his love and favour more than life it ſelf. Let it witneſs how much we love his will bet<g ref="char:EOLhyphen"/>ter than our own; and what a Grace we think it, that he hath taught us to deny ungodlineſs and wordly luſts, and to live ſoberly, righteouſly, and godly in the world. Thoſe luſts (called <hi>worldly,</hi> becauſe they are ſo common) are the Per<g ref="char:EOLhyphen"/>ſecutors, which now we are to conflict
+<pb n="31" facs="tcp:93530:17"/>withal, as the Martyrs did with other Enemies. Here is now the trial of our Vertue; here is the proof our Fidelity; theſe put us to the teſt, whether we will ſtick to our Lord and Maſter, or yeild to their deſires. <hi>Si deeſt Tyrannus, ſi tortor, ſi ſpoliator,</hi> &amp;c. as St. <hi>Auſtin:</hi> ſpeaks; though there be no Tyrant (bleſſed be God in theſe peaceable days), no Tor<g ref="char:EOLhyphen"/>mentor, no Plunderer; yet evil deſires are never wanting, to afford daily occaſion of Martyrdom. For it is a kind of death (<hi>ſine cruore Martyrium,</hi> in the Phraſe of <hi>Sulpitius,</hi> a Martyrdom without blood: <hi>oecultum Martyrium,</hi> in the language of St. <hi>Ambroſe,</hi> a ſecret unſeen Martyrdom) to ſuppreſs all deſires of ſinful pleaſures; to bear with the unkind cenſures of the envious, and the reproaches of the malicious; to forbear revenge, when a fair opportunity is offered; to ſtifle all motions of anger, and wrath, and diſ<g ref="char:EOLhyphen"/>content, and hatred, and pride, vain<g ref="char:EOLhyphen"/>glory and ambition, when there are con<g ref="char:EOLhyphen"/>ſtant provocations, and ſtrong tempta<g ref="char:EOLhyphen"/>tions to them. Theſe are the evil affe<g ref="char:EOLhyphen"/>ctions
+<pb n="32" facs="tcp:93530:18"/>we muſt manfully reſiſt and cruci<g ref="char:EOLhyphen"/>fie: and when they are dead, it will not be hard for us, by the Grace of God, to dye too, if need be, for our Saviour's ſake.</p>
+            <p>
+               <label>III.</label>
+And now eſpecially (which is the laſt thing) let every one of our lives give a teſtimony to God, and do honour to his Religion; when we ſolemnly commemore (as we do at this time of the year) both the wonderful great Love of our Lord the Eternal Son of God, in becoming a man for us, and the love alſo which the Mar<g ref="char:EOLhyphen"/>tyrs, thoſe rational whole burnt-offerings (as <hi>Greg. Naz.</hi> calls them),<note place="margin">Oraet. XVIII. in laud. Cypr.</note> thoſe perfect Sacrifices, thoſe acceptable Oblations, ex<g ref="char:EOLhyphen"/>preſſed to him, in dying for his Service. Let us now carefully avoid all things con<g ref="char:EOLhyphen"/>trary to our profeſſion; all riot and luxury, drunkenneſs and revelling, chambering and wantonneſs, fooliſh (that is filthy, laſcivious) talking and jeſting: For theſe things, ſaith the Apoſtle, <hi>are not conve<g ref="char:EOLhyphen"/>nient</hi> (do not agree with Chriſtianity): <hi>but rather giving of thanks</hi> for God's ineſti<g ref="char:EOLhyphen"/>mable
+<pb n="33" facs="tcp:93530:18"/>benefits beſtowed on us. <hi>V. Eph.</hi> 4. <hi>Seccine exprimitur publicum gaudium per publicum dedecus,</hi> &amp;c. (as <hi>Tertullian</hi> ſpeaks of the Pagan Feſtivities), <hi>Is this the way to expreſs a publick joy by a publick ſhame? Do thoſe things become our ſolemn days, which are unfit to be done at any time? Valde abſurdum eſt</hi> (to uſe alſo the words of St. <hi>Hierom</hi>) <hi>velle nimia ſaturitate ho<g ref="char:EOLhyphen"/>norare Martyrem, quem ſcimus Deo placuiſſe jejuniis.</hi> It is extreamly abſurd to think to honour the Martyr by exceſs, who we know pleaſed God by faſtings: To cele<g ref="char:EOLhyphen"/>brate his memory, meerly with Plays, and Sports and Merriment, who we know was acceptable to our Lord, by devout Prayers, Praiſes and Thankſgivings: To keep his day after the Heatheniſh faſhion, whoſe Martyrdom was the <hi>deſtruction of error</hi> (as the forenamed Greek Father ſpeaks), <hi>the perſecution of Vice, the drown<g ref="char:EOLhyphen"/>ing of Sin, and the cleanſing of the world.</hi>
+            </p>
+            <p>Not that it is unfit now to Feaſt and recreate our ſelves: for it is never more
+<pb n="34" facs="tcp:93530:19"/>ſeaſonable, nor more ſafe, to feaſt and refreſh our bodies, than when at ſuch ſolemnities we have feaſted our Souls. We can never be better diſpoſed, nor better underſtand how to uſe God's bleſ<g ref="char:EOLhyphen"/>ſings thankfully, ſoberly, and charitably, than when he is freſh in our thoughts, and we have been commemorating his mar<g ref="char:EOLhyphen"/>vellous bounty to us all. And therefore after the Pſalms and Hymns wherewith they;<note place="margin">Ad Sanct. Coelum. C. <hi>12.</hi>
+               </note> anciently praiſed God for the Mar<g ref="char:EOLhyphen"/>tyrs; there followed in many places, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> (as the great <hi>Conſtantine</hi> ſpeaks) moſt ſober feaſts of Chriſtian good-fellowſhip; wherein the poor were fed; and all enmities buried. Nor did they think it an unfit expreſſion of their joy, to dance at the Sepulchres of the Martyrs,<note place="margin">Hom. in Barlaam.</note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, with Godly and Religious dances; as both St. <hi>Baſil</hi> and his great Friend ſo often mentioned,<note place="margin">Carm. <hi>63.</hi>
+               </note> ex<g ref="char:EOLhyphen"/>preſly tell us. And is it not poſſible for us to ſeparate ſuch innocent things from that intemperance and wantonneſs, which at laſt robbed the Martyrs of this part of their honour, and cauſed theſe cuſtoms
+<pb n="35" facs="tcp:93530:19"/>to be aboliſhed? Let us but ſo devoutly attend upon the Divine Service on ſuch days, as to carry away a ſenſe of God in our mind; and the buſineſs is done. That will ſufficiently ſecure us, and pre<g ref="char:EOLhyphen"/>ſerve us from danger. Whatſoever we do, we ſhall expreſs the Character which <hi>Clemens Alexandrinus</hi> gives of his wiſe Chriſtian, who, he ſays,<note place="margin">Strom. L. VII.</note> is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>at the ſame time both grave and merry in all things. Grave, becauſe he remembers God: and merry, becauſe of the many good things which he enjoys by the favour of God.</hi>
+            </p>
+            <p>For all which his Holy Name be praiſed, as well as for his Spiritual bleſſings in Chriſt Jeſus; To whom with the Father and the Holy-Ghoſt, be all honour, thankſgiving, love and faithful ſervice both now and evermore.</p>
+            <closer>Amen.</closer>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
